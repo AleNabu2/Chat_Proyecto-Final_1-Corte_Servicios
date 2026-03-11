@@ -259,7 +259,7 @@ Una instancia actuará como **servidor** y la otra como **cliente** dependiendo 
 
 
 ```
-[https://](https://youtu.be/5-HWgX3C4Yg)
+https://youtu.be/5-HWgX3C4Yg
 
 ```
 
