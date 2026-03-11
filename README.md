@@ -270,4 +270,5 @@ https://youtu.be/5-HWgX3C4Yg
 Proyecto desarrollado por:
 
 **Natalia Martin**
+---
 **Alejandra Acevedo**
